@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>network2016.kml</name>
+	<StyleMap id="msn_107">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_107</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_107</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_107">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://pearlsaurus.fc2web.com/elog/386/107.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_107">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://pearlsaurus.fc2web.com/elog/386/107.jpg</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>エビワラー</name>
+		<description><![CDATA[<img src="https://gamewith.akamaized.net/article_tools/pokemongo/gacha/25247.png"/>
+
+<br>
+評価点　7/10点
+
+<br>
+CP　1517
+
+<br>
+レアリティ　B]]></description>
+		<LookAt>
+			<longitude>139.881743699421</longitude>
+			<latitude>35.64901069938424</latitude>
+			<altitude>0</altitude>
+			<heading>7.234171622988769e-011</heading>
+			<tilt>0</tilt>
+			<range>1000.37002543277</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_107</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>139.881743699421,35.64901069938424,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
